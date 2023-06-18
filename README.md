@@ -1,4 +1,4 @@
-# Blender tilt-shift alignment
+# Blender off-axis projection
 
 ![Demo](demo.gif)
 
