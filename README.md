@@ -18,7 +18,7 @@ Keywords: Off-axis projection, Oblique projection, tilt-shift lens
 ## How to use
 
 1. Open the blender file you want to use
-2. Make a plane object to fit the plane of your interest
+2. Make a plane object to fit the plane of your interest (NOTE: plane aspect ratio should be identical to render aspect ratio!)
 3. Go to `scripting/Text Editor` pane
 4. Create a new file and copy paste the content of `off-axis-projection.py`
 5. In last line, replace `"CameraName"` and `"RectangleName"` to the name of your camera and plane respectively.
